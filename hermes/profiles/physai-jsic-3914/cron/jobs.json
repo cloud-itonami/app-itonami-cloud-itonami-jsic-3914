@@ -14,8 +14,8 @@
       "provider": null,
       "schedule": {
         "kind": "cron",
-        "expr": "38 23 * * *",
-        "display": "38 23 * * *"
+        "expr": "22 11 * * *",
+        "display": "22 11 * * *"
       },
       "script": "physai_measure.hy",
       "skill": null,
@@ -41,8 +41,8 @@
       "provider": null,
       "schedule": {
         "kind": "cron",
-        "expr": "9 23 2 * *",
-        "display": "9 23 2 * *"
+        "expr": "29 11 * * *",
+        "display": "29 11 * * *"
       },
       "script": "physai_evidence.hy",
       "skill": null,
